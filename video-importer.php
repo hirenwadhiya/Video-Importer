@@ -9,8 +9,6 @@ Author: Hiren Wadhiya
 Author URI: http://en.gravatar.com/hirenwadhiya
 */
 
-error_reporting(0);
-
 function yp_youtube_post_init(){
   register_setting('yp_youtube_post_options','youtubepost');
 }
